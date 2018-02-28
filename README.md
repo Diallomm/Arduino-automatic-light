@@ -5,4 +5,3 @@ necessary equipment ATtiny 45, LDR, 10K resistance, TLP 621 (optocoupler) relay 
 
 Fritzing use to see the diagram http://fritzing.org/download/
 
-if you have problems joingner me on rewboys22@gmail.com
